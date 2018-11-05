@@ -117,7 +117,6 @@
   <ItemGroup>
     <ClInclude Include="..\..\..\..\Desktop\practice-exam\BankAccount.h" />
     <ClInclude Include="..\..\..\..\Desktop\practice-exam\PersonInfo.h" />
-    <ClInclude Include="..\..\..\..\Desktop\practice-exam\SavingsAccount.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\Desktop\practice-exam\main.cpp" />

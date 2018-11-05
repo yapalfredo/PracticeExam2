@@ -21,9 +21,6 @@
     <ClInclude Include="..\..\..\..\Desktop\practice-exam\PersonInfo.h">
       <Filter>Source Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Desktop\practice-exam\SavingsAccount.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\Desktop\practice-exam\main.cpp">
